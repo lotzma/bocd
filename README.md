@@ -1,1 +1,1 @@
-# bocd
+# Bayesian Online Changepoint Detection
